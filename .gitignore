@@ -1,6 +1,9 @@
-feature_engineered_data/                        
-phase1_outputs/                              
-phase3_outputs/                                 
-processed_steam_data_updated/                   
-.DS_Store       
+feature_engineered_data/
+feature_engineered_data_updated/
+processed_steam_data/
+processed_steam_data_updated/
+phase1_outputs/
+phase3_outputs/
+phase3_outputs_updated/
+.DS_Store
 .venv
