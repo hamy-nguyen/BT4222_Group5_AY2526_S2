@@ -1,0 +1,5 @@
+Model,HR@10,NDCG@10,AUC-ROC,F1-score
+NCF,0.9104,0.7193,,
+CBF,0.0459,0.0277,,
+Wide & Deep,0.8085,0.4489,0.6604,0.8601
+Logistic Regression (Test),0.782,0.7754,0.6728,0.571
