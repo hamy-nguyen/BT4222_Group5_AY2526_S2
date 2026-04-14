@@ -34,12 +34,16 @@ BT4222_Group5_AY2526_S2/
 │   │   ├── phase3_data_sampling.ipynb
 │   │   ├── phase3_feature_engineering.ipynb
 │   │   ├── phase3_wide_and_deep_extra_filter.ipynb
+│   │   ├── phase3_wide_and_deep_extra_filter_alternative.ipynb  # Uses phase1_outputs_alternative embeddings
 │   │   ├── phase3_processed_steam_data/
 │   │   ├── phase3_feature_engineered_data/
-│   │   └── phase3_outputs_extra_filter/
+│   │   ├── phase3_outputs_extra_filter/
+│   │   └── phase3_outputs_extra_filter_alternative/  # Outputs using alternative embeddings
 │   └── without_extra_filter/          # Variant B: ablation baseline
 │       ├── phase3_wide_and_deep.ipynb
-│       └── phase3_outputs/
+│       ├── phase3_wide_and_deep_alternative.ipynb    # Uses phase1_outputs_alternative embeddings
+│       ├── phase3_outputs/
+│       └── phase3_outputs_alternative/               # Outputs using alternative embeddings
 │
 └── phase4_finalised/                   # Hybrid stacking
     ├── phase4_logistic_regression.ipynb
