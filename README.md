@@ -42,8 +42,8 @@ BT4222_Group5_AY2526_S2/
 │       └── phase3_outputs/
 │
 └── phase4_finalised/                   # Hybrid stacking
-    ├── phase_4_logistic_regression.ipynb
-    └── phase4_outputs/
+    ├── phase4_logistic_regression.ipynb
+    └── phase4_outputs/                 # LR scores and evaluation
 ```
 
 ---
