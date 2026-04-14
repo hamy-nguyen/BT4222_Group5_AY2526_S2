@@ -64,10 +64,10 @@ BT4222_Group5_AY2526_S2/
 2. **Download the raw dataset** from Google Drive and place it at `steam_dataset_2025_csv/` in the repo root:
    [Steam Dataset 2025](https://drive.google.com/drive/folders/1zOhuPBiuPmvz5_gdEmsBfVNqpMuboV8k?usp=sharing)
 
-3. **Activate the virtual environment**
+3. **Install dependencies** (Python 3.11)
 
    ```bash
-   source .venv/bin/activate
+   pip install -r requirements.txt
    ```
 
 4. **Run notebooks in order** — paths are pre-configured in cell 2 or 3 of each notebook, no additional setup required.

@@ -1,0 +1,21 @@
+# Python 3.11
+# Core data
+numpy==2.4.4
+pandas==3.0.2
+
+# Machine learning
+scikit-learn==1.8.0
+xgboost==3.2.0
+torch==2.11.0
+
+# NLP — required only for regenerating BERT embeddings in phase0_feature_engineering.ipynb
+sentence-transformers>=2.2.0
+
+# Utilities
+joblib==1.5.3
+psutil==7.2.2
+tqdm>=4.64.0
+textblob>=0.17.0
+
+# Notebook runtime
+ipykernel>=7.0.0
